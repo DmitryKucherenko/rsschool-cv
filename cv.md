@@ -13,10 +13,10 @@ Key Skills:
 *	Basic SQL
 *	Elementary java script
 
-Languages
-Russian (native), English (A2)
+**Languages**  
+*Russian (native), English (A2)
 
-Education:  
+**Education:**
 *Vitebsk Technological State University, Vitebsk, Belarus,  2002-2007
 *specialty engineer
 
