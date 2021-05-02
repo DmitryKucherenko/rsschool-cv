@@ -1,2 +1,1 @@
-# rsschool-cv
-Markdown &amp; Git
+[https://dmitrykucherenko.github.io/rsschool-cv/cv](https://dmitrykucherenko.github.io/rsschool-cv/cv)
